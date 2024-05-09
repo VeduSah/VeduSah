@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Vedant sahani
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- HTML,CSS,JS,Java,C
 
 <!---
 VeduSah/VeduSah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
