@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vedant sahani
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Development
+- 🌳 I am now a Full Stack Developer
 - 📫 How to reach me -vedantsahani6@gmail.com
 - MERN stack developer
 - Java with DSA
