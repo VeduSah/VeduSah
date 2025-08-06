@@ -10,7 +10,7 @@
 
 <div style="background: #0D1117; border-radius: 10px; padding: 20px; margin: 20px 0;">
 <p style="color: #58A6FF;">+ 💻 Passionate Full Stack Developer with expertise in MERN stack</p>
-<p style="color: #58A6FF;">+ 🌱 Currently expanding my skills in Next.js and TypeScript</p>
+<p style="color: #58A6FF;">+ 📱 Exploring cross-platform development with React Native</p>
 <p style="color: #58A6FF;">+ 🧠 Strong foundation in Java and Data Structures & Algorithms</p>
 <p style="color: #58A6FF;">+ 🚀 Always building innovative solutions to real-world problems</p>
 <p style="color: #58A6FF;">+ 📚 Lifelong learner in the ever-evolving tech landscape</p>
