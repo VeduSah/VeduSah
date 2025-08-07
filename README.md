@@ -20,47 +20,84 @@
 
 ## 🛠️ Tech Stack
 
+### 🖥️ Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" style="margin: 10px; background: white; padding: 5px; border-radius: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<!--   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+### ⚙️ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</p>
+
+### 🛠️ Tools & Others
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
 
-<div style="background: #161B22; border-radius: 10px; padding: 15px; flex: 1; min-width: 300px;">
-<img src="https://github-readme-stats.vercel.app/api?username=VeduSah&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 100%;"/>
+<div style="background: linear-gradient(to right, #161B22, #0D1117); border-radius: 10px; padding: 15px; flex: 1; min-width: 300px; border-top: 3px solid #58A6FF;">
+<img src="https://github-readme-stats.vercel.app/api?username=VeduSah&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="width: 100%;"/>
 </div>
 
-<div style="background: #161B22; border-radius: 10px; padding: 15px; flex: 1; min-width: 300px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeduSah&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%;"/>
+<div style="background: linear-gradient(to right, #161B22, #0D1117); border-radius: 10px; padding: 15px; flex: 1; min-width: 300px; border-top: 3px solid #58A6FF;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VeduSah&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%;"/>
+</div>
+
+<div style="background: linear-gradient(to right, #161B22, #0D1117); border-radius: 10px; padding: 15px; flex: 1; min-width: 300px; border-top: 3px solid #58A6FF;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeduSah&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" style="width: 100%;"/>
 </div>
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VeduSah&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+---
+
+
+
 ## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:vedantsahani6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  
   <a href="https://www.linkedin.com/in/vedant-sahani-561b92318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
+ 
+  <a href="https://github.com/VeduSah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
  
 </p>
 
-
 <div align="center" style="margin-top: 40px;">
-<img src="https://komarev.com/ghpvc/?username=VedantSahani&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=VeduSah&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/VeduSah?label=Follow&style=social" alt="GitHub Followers"/>
 </div>
